@@ -1,4 +1,4 @@
-**👋 Hi! I'm an Information Technology student at the University of Applied Sciences since 2021.**
+### 👋 Hi! I'm an Information Technology student at the University of Applied Sciences since 2021.
 
 #### Languages I've used ✨
 * C#
@@ -20,9 +20,10 @@
 * Visual Components
 * Visual Studio Code
 
-📦 In Repositories, you'll discover my learning process, where I'm continually striving to improve.
+In Repositories , you'll discover my learning process, where I'm continually striving to improve [📦](https://github.com/damakes?tab=repositories)
 
 <!---
 damakes/damakes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
