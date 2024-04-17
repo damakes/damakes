@@ -1,4 +1,4 @@
-### 👋 Hi! I'm an Information Technology student at the [Metropolia University of Applied Sciences](https://www.metropolia.fi/en) since 2021. 
+#### 👋Hi! I'm an Information Technology student at the [Metropolia University of Applied Sciences](https://www.metropolia.fi/en) since 2021. 
 
 #### Languages I've used ✨
 * C#
