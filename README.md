@@ -1,4 +1,4 @@
-#### 👋Hi! I'm an Information Technology student at [Metropolia University of Applied Sciences](https://www.metropolia.fi/en). 
+#### 👋Hi! I'm an Information Technology student at [Metropolia UAS](https://www.metropolia.fi/en), discover my learning process [📦](https://github.com/damakes?tab=repositories).
 
 #### Languages I've used ✨
 * C#
@@ -9,7 +9,6 @@
 
 
 #### Additional tools, frameworks, and platforms 📱
-* Anaconda
 * Arduino IDE
 * Autodesk Inventor
 * Final Cut Pro
@@ -19,8 +18,6 @@
 * UiPath
 * Visual Components
 * Visual Studio Code
-
-In Repositories , you'll discover my learning process, where I'm continually striving to improve [📦](https://github.com/damakes?tab=repositories)
 
 <!---
 damakes/damakes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
