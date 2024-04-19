@@ -5,7 +5,6 @@ I'm an Information Technology student at [Metropolia UAS](https://www.metropolia
 **Languages I've used:** 
 * C#
 * Java
-* JavaScript
 * Python
 * Ruby
 
