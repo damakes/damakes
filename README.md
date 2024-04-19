@@ -1,14 +1,15 @@
-#### 👋Hi! I'm an Information Technology student at [Metropolia UAS](https://www.metropolia.fi/en), discover my learning process [📦](https://github.com/damakes?tab=repositories).
 
-#### Languages I've used ✨
+<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> **Hi!**
+I'm an Information Technology student at [Metropolia UAS](https://www.metropolia.fi/en), discover my learning process [📦](https://github.com/damakes?tab=repositories).
+
+**Languages I've used:** 
 * C#
 * Java
 * JavaScript
 * Python
 * Ruby
 
-
-#### Additional tools, frameworks, and platforms 📱
+**Additional tools, frameworks, and platforms:**
 * Arduino IDE
 * Autodesk Inventor
 * Final Cut Pro
