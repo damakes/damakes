@@ -1,7 +1,8 @@
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--<h1 align="center">Hi <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> </h1>--->
 <p align="left"><picture><img src="https://profile-counter.glitch.me/damakes/count.svg?" /><picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp"></picture></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 - 🔭 I’m studying [Information Technology](https://www.metropolia.fi/en/academics/bachelors-degrees/information-technology) at [Metropolia](https://www.metropolia.fi/en) UAS.
 - 🌱 I’m currently learning [📦](https://github.com/damakes?tab=repositories)
@@ -11,7 +12,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damakes&theme=vue&layout=tight" height="180em" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damakes&theme=vue&layout=tight" height="180em" /></p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damakes&theme=vue&layout=tight" height="180em" /><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damakes&theme=vue&layout=tight" height="180em" /></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
