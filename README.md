@@ -1,7 +1,11 @@
+
+
+
+<h3 align="center">
+  <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+  </picture><a href="https://github.com/damakes?tab=repositories"> 📦...<a/>
+</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center"><picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> <img src="https://profile-counter.glitch.me/damakes/count.svg?"  /></h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-</div>
 <div align="center">
   <a href="https://github.com/damakes">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damakes&theme=transparent" height="180em" />
@@ -10,7 +14,15 @@
     <div align="center">
       <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
+    <div align="center">   
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32">
+</picture> <img src="https://profile-counter.glitch.me/damakes/count.svg?" /> <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32">
+</picture>
+</div>
 
 <!---
 damakes/damakes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
