@@ -5,17 +5,17 @@
 ### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture>Hi There , I’m studying [Information Technology](https://www.metropolia.fi/en/academics/bachelors-degrees/information-technology) at [Metropolia](https://www.metropolia.fi/en) UAS [📦.](https://github.com/damakes?tab=repositories)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" >
+<p align="left" >
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damakes&theme=vue&layout=tight" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damakes&theme=vue&layout=tight"  height="180em" />
 </p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damakes&theme=vue&layout=tight"  height="180em" />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,aws,azure,cs,cpp,git,java,opencv,python,react,ruby,tensorflow&theme=light" />
+    <img src="https://skillicons.dev/icons?i=arduino,aws,azure,cs,cpp,git,java,opencv,python,react,ruby,tensorflow&theme=light&perline=4" />
   </a>
 </p>
 
