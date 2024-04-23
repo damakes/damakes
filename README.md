@@ -1,9 +1,9 @@
-<p align="right"><picture><img src="https://profile-counter.glitch.me/damakes/count.svg?" /><picture></p>
 
 
 
-### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture>Hi There , I’m studying [Information Technology](https://www.metropolia.fi/en/academics/bachelors-degrees/information-technology) at [Metropolia](https://www.metropolia.fi/en) UAS [📦.](https://github.com/damakes?tab=repositories)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture>Hi, I’m studying [Information Technology](https://www.metropolia.fi/en/academics/bachelors-degrees/information-technology) at [Metropolia](https://www.metropolia.fi/en) UAS [📦](https://github.com/damakes?tab=repositories) <p align="right"><picture><img src="https://profile-counter.glitch.me/damakes/count.svg?" /><picture> </p>
+
 <p> </p>
 
 
