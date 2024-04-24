@@ -1,16 +1,18 @@
+<picture><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/><picture>
 
 <picture><img src="https://profile-counter.glitch.me/damakes/count.svg?" /><picture>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p></p>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damakes&theme=swift" height="180em" />
-<p></p>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damakes&theme=swift"  height="180em" />
-<p></p>
-<img align="left" src="https://skillicons.dev/icons?i=arduino,aws,azure,cs,cpp,git,java,opencv,python,react,ruby,tensorflow&theme=light&perline=4" />
-<p></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<picture><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damakes&theme=swift" height="180em" /><picture>
+
+
+<picture><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damakes&theme=swift"  height="180em" /><picture>
+
+<picture><img align="left" src="https://skillicons.dev/icons?i=arduino,aws,azure,cs,cpp,git,java,opencv,python,react,ruby,tensorflow&theme=light&perline=4" /><picture>
+
+
+
+<picture><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><picture>
 
 
 
