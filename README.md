@@ -2,8 +2,6 @@
 
 ....Learning in progress...
 
-<picture><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damakes&theme=swift"  height="180em" /><picture><picture><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><picture>
-
 ### **My projects**<picture><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/><picture>
 
 #### Screen OCR Analyzer Project  🖥️
@@ -37,11 +35,14 @@
 
 <picture><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/><picture>
 
-<picture><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damakes&theme=swift" height="180em" /><picture>
+<picture><img align="rigt" src="https://skillicons.dev/icons?i=arduino,aws,azure,cs,cpp,git,java,opencv,python,react,ruby,tensorflow&theme=light" /><picture>
+
+<picture><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damakes&theme=swift"  height="180em" /><picture><picture><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><picture>
+
 
 <picture><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/><picture>
 
-<picture><img align="left" src="https://skillicons.dev/icons?i=arduino,aws,azure,cs,cpp,git,java,opencv,python,react,ruby,tensorflow&theme=light" /><picture>
+
 
 <!---
 
