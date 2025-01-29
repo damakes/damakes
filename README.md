@@ -5,8 +5,12 @@
   </picture>
 
   <picture>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damakes&theme=swift" height="120em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damakes&theme=github" height="120em" />
   </picture>
+
+
+
+  
 <!---
 damakes/damakes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
